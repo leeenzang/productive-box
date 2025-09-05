@@ -7,3 +7,6 @@ branding:
 runs:
   using: "node12"
   main: "dist/index.js"
+env:
+  GIST_ID: 165e3443efdabb19db29cfb77e8b0b72
+  TIMEZONE: Asia/Seoul
